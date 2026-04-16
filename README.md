@@ -213,8 +213,8 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-**[Your Name]** — Data Science & Analytics  
-📧 your.email@gmail.com  
+**[ Ayan Mukherjee]** — Data Science & Analytics  
+📧 ayanmukherji223@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🐱 [GitHub](https://github.com/yourusername)
 
@@ -222,4 +222,4 @@ streamlit run app.py
 
 ## 📄 License
 
-MIT © 2025 [Your Name]
+MIT © 2025 [  Ayan Mukherjee]
